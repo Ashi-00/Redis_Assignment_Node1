@@ -1,5 +1,5 @@
 # Redis_Assignment_Node1
 
 ### INSTRUCTIONS TO EXECUTE
-On the Terminal, execute:-
-npm-start
+On the Terminal, execute:-  
+npm i
